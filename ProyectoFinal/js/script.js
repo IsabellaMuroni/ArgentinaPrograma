@@ -7,9 +7,4 @@ let closeBtn = document.querySelector("#btn");
     menuBtnChange();
   });
 
-  searchBtn.addEventListener("click", ()=>{
-    sidebar.classList.toggle("open");
-    menuBtnChange(); 
-  });
-
  
